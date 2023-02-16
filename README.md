@@ -7,13 +7,13 @@ My technology expertise is towards Microsoft technology tech stack (C#, .NET Cor
 - 🔭 I’m currently working on publishing ESP32 material on my GitHub account
 - 🌱 I’m currently learning C++ by programming an ESP32 as it is outside my comfort zone and hoping to start soon on Rust development on the ESP32
 
-## Learning material
+### Learning material
 
-### Coding challenges
+#### Coding challenges
 - [Advent of Code](https://adventofcode.com/)
 - [LeetCode](https://leetcode.com/)
 
-### Books
+#### Books
 - [Understanding distributed systems](https://www.amazon.com/Understanding-Distributed-Systems-distributed-applications/dp/1838430202) *Highly recommended*
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
